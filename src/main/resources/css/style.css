@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+.root {
+    -fx-text-fill: black;
+    -fx-font-size: 20;
+}
+
+SVGPath {
+    -fx-fill: transparent;
+    -fx-stroke: dodgerblue; // transparent
+    -fx-stroke-width: 3px;
+}

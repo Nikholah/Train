@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.FlowPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+
+<fx:root type="HBox" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <FlowPane fx:id="main"/>
+      <FlowPane fx:id="recu" />
+      <FlowPane fx:id="defausse" />
+      <VBox fx:id="ico" />
+   </children>
+</fx:root>
